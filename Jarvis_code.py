@@ -74,10 +74,7 @@ if __name__ == "__main__":
             speak("Hello Boss, hope you are doing good...")
         elif 'i am fine what about you' in query:
             speak("I am doing good sir, thank you for asking")
-        elif 'who am i' in query:
-            speak("You are Yash...")
-        elif 'who is the president of India' in query:
-            speak("The president of India is Narendra Modi, sir...")
+      
 
         
 
